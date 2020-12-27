@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HWIDGrabber:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HWIDGrabber_jar</output-path>
+    <root id="archive" name="HWIDGrabber.jar">
+      <element id="module-output" name="HWIDGrabber" />
+    </root>
+  </artifact>
+</component>
